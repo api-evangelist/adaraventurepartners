@@ -1,0 +1,123 @@
+generated: '2026-09-07'
+method: derived
+source: llms/adaraventurepartners-llms.txt (fetched verbatim from https://www.adara.vc/llms.txt) + https://www.adara.vc/sitemap.xml
+note: 'Derived from the firm''s own published /llms.txt and the team URLs listed in its sitemap. Titles,
+  education and remit are quoted from what Adara publishes about itself; no biography was inferred. Team
+  members whose sitemap page exists but who are not described in llms.txt are recorded with title: null
+  rather than a guessed role.'
+summary:
+  people: 18
+  partners: 5
+people:
+- name: Alberto Gomez
+  title: Founding Partner
+  url: https://www.adara.vc/team/alberto-gomez
+  email: alberto@adara.vc
+  focus: Leads cybersecurity investments (including AlienVault); co-leads the Adara Ventures Energy fund
+  background: MIT (Electrical Engineering), Harvard MBA; previously Telefonica venture, Merrill Lynch,
+    Morgan Stanley, McKinsey, Booz Allen
+- name: Nico Goulet
+  title: Founding Partner
+  url: https://www.adara.vc/team/nico-goulet
+  email: null
+  focus: Co-leads the seed fund; teaches venture capital at INSEAD and IE
+  background: Aerospace engineering at Ecole Centrale Paris, Aero & Astro MSc at MIT, MBA at INSEAD; founded
+    NETfractal; co-founded Adara 2002-2005
+- name: Rocio Pillado
+  title: Partner (since 2018)
+  url: https://www.adara.vc/team/rocio-pillado
+  email: rocio@adara.vc
+  focus: Co-leads seed across cyber, data, infrastructure and health (Quibim, IOMED); Academic Director
+    of Advanced VC at IE
+  background: Computer Engineering (UPM / ENSIMAG); engineer in France, New York and Hong Kong; Chicago
+    Booth MBA
+- name: Ross Strachan
+  title: Partner (2024)
+  url: https://www.adara.vc/team/ross-strachan
+  email: null
+  focus: Runs platform strategy - network, knowledge, tools, partnerships
+  background: 10+ years at WPP M&A/Ventures across 15 countries; IE MBA; joined Adara in 2018
+- name: Alberto Echeverri
+  title: Partner (joined 2023)
+  url: https://www.adara.vc/team/alberto-echeverri
+  email: null
+  focus: Architects and co-leads Adara Ventures Energy; led the NVIDIA Inception VC Alliance partnership
+  background: 20+ years at Siemens Energy and GE with global P&L
+- name: Jorge Baron
+  title: Principal
+  url: https://www.adara.vc/team/jorge-baron
+  email: null
+  focus: null
+  background: null
+- name: Jesus Sainz
+  title: Chairman Emeritus
+  url: https://www.adara.vc/team/jesus-sainz
+  email: null
+  focus: null
+  background: null
+- name: Krystal Somaza
+  title: Senior Associate
+  url: https://www.adara.vc/team/krystal-somaza
+  email: null
+  focus: null
+  background: null
+- name: Andrea Cabanillas
+  title: Associate
+  url: https://www.adara.vc/team/andrea-cabanillas
+  email: null
+  focus: null
+  background: null
+- name: Alexei Perley
+  title: Senior Analyst
+  url: https://www.adara.vc/team/alexei-perley
+  email: null
+  focus: null
+  background: null
+- name: Juan Cabanas
+  title: AI & Operations Associate
+  url: https://www.adara.vc/team/juan-cabanas
+  email: null
+  focus: null
+  background: null
+- name: Monica Navas
+  title: Head of Compliance and Investor Relations
+  url: https://www.adara.vc/team/monica-navas
+  email: null
+  focus: null
+  background: null
+- name: Irene Alia
+  title: Head of Legal
+  url: https://www.adara.vc/team/irene-alia
+  email: null
+  focus: null
+  background: null
+- name: Maria Alonso
+  title: Head of Finance
+  url: https://www.adara.vc/team/maria-alonso
+  email: null
+  focus: null
+  background: null
+- name: Gonzalo Pinto
+  title: null
+  url: https://www.adara.vc/team/gonzalo-pinto
+  email: null
+  focus: null
+  background: Listed in the sitemap team collection; not described in the published llms.txt
+- name: Hilario Duran
+  title: null
+  url: https://www.adara.vc/team/hilario-duran
+  email: null
+  focus: null
+  background: Listed in the sitemap team collection; not described in the published llms.txt
+- name: Mariam Amal
+  title: null
+  url: https://www.adara.vc/team/mariam-amal
+  email: null
+  focus: null
+  background: Listed in the sitemap team collection; not described in the published llms.txt
+- name: Adara Team
+  title: null
+  url: https://www.adara.vc/team/adara-team
+  email: null
+  focus: null
+  background: Collection landing entry in the sitemap, not an individual

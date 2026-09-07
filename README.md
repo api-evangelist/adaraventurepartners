@@ -1,4 +1,4 @@
-# Adaraventurepartners
+# Adara Ventures
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,13 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Adaraventurepartners is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://equityzen.com/company/adaraventurepartners
+Adara Ventures (legally Adara Venture Partners S.a r.l.) is an early-stage European deep-tech venture
+capital firm founded in Madrid in 2005. It is an investor in API and developer-infrastructure companies
+rather than a publisher of APIs itself: it operates no developer program, no API host and no
+machine-readable contract. It does publish a detailed first-party `/llms.txt`, saved here verbatim.
+
+- Website: https://www.adara.vc/
+- Portfolio: https://www.adara.vc/portfolios
+- Team: https://www.adara.vc/team
+- llms.txt: https://www.adara.vc/llms.txt
+- Secondary-market listing: https://equityzen.com/company/adaraventurepartners

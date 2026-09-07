@@ -1,0 +1,58 @@
+generated: '2026-09-07'
+method: probed
+source: https://www.adara.vc/
+note: >-
+  Every named /.well-known/ path was probed on both hosts the record knows
+  (www.adara.vc and the apex adara.vc, which redirects to www). All ten probes
+  returned 404 — the Webflow origin answers "Invalid .well-known request" for
+  any /.well-known/* path. No document was served, so NO WellKnown or SecurityTxt
+  pointer is wired into apis.yml: this file records a measured absence, not a
+  presence. The firm does publish a real /llms.txt (saved under llms/), but that
+  is not a /.well-known/ document.
+hosts:
+- host: www.adara.vc
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+    file: null
+  - path: /.well-known/openid-configuration
+    status: 404
+    file: null
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+    file: null
+  - path: /.well-known/api-catalog
+    status: 404
+    file: null
+  - path: /.well-known/ai-plugin.json
+    status: 404
+    file: null
+  - path: /.well-known/agent-card.json
+    status: 404
+    file: null
+  - path: /.well-known/agent.json
+    status: 404
+    file: null
+- host: adara.vc
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+    file: null
+  - path: /.well-known/openid-configuration
+    status: 404
+    file: null
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+    file: null
+  - path: /.well-known/api-catalog
+    status: 404
+    file: null
+  - path: /.well-known/ai-plugin.json
+    status: 404
+    file: null
+  - path: /.well-known/agent-card.json
+    status: 404
+    file: null
+  - path: /.well-known/agent.json
+    status: 404
+    file: null
