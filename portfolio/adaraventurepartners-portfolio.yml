@@ -7,10 +7,10 @@ note: Harvested from Adara Ventures' own portfolio index and its 47 per-company 
   domain against 0-working/network-domain-index.json - no company was matched by name.
 summary:
   portfolio_total: 47
-  in_network: 4
-  api_providers: 1
-  no_published_url: 16
-  missing_from_network: 43
+  in_network: 8
+  api_providers: 2
+  missing: 39
+  stubs_created: 0
 companies:
 - name: 42Crunch
   page: https://www.adara.vc/portfolio/42crunch
@@ -20,6 +20,8 @@ companies:
   network_slug: 42crunch
   in_network: true
   is_api_provider: true
+  slug: 42crunch
+  matched_by: domain
 - name: Acoru
   page: https://www.adara.vc/portfolio/acoru
   url: https://www.acoru.com
@@ -28,6 +30,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: acoru
 - name: AdCities
   page: https://www.adara.vc/portfolio/adcities
   url: https://adcities.com
@@ -36,6 +39,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: adcities
 - name: ADD Semiconductor
   page: https://www.adara.vc/portfolio/add-2
   url: null
@@ -44,6 +48,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: add-semiconductor
 - name: Airflows
   page: https://www.adara.vc/portfolio/airflows
   url: https://airflows.com
@@ -52,6 +57,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: airflows
 - name: AppFactor
   page: https://www.adara.vc/portfolio/appfactor
   url: https://www.appfactor.io
@@ -60,6 +66,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: appfactor
 - name: Après
   page: https://www.adara.vc/portfolio/apres-2
   url: null
@@ -68,14 +75,17 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: apres
 - name: Articul8
   page: https://www.adara.vc/portfolio/article-8
   url: https://articul8.ai
   status: active
   domain: articul8.ai
   network_slug: null
-  in_network: false
+  in_network: true
   is_api_provider: false
+  slug: articul8-ai
+  matched_by: domain
 - name: BeonX
   page: https://www.adara.vc/portfolio/beonx
   url: null
@@ -84,6 +94,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: beonx
 - name: Bigle
   page: https://www.adara.vc/portfolio/bigle-legal
   url: https://www.biglelegal.com
@@ -92,6 +103,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: bigle
 - name: Caravelo
   page: https://www.adara.vc/portfolio/caravelo
   url: https://www.caravelo.com
@@ -100,6 +112,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: caravelo
 - name: Constella Intelligence
   page: https://www.adara.vc/portfolio/constella
   url: https://constella.ai
@@ -108,6 +121,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: constella-intelligence
 - name: Corinex
   page: https://www.adara.vc/portfolio/corinex
   url: null
@@ -116,6 +130,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: corinex
 - name: Councilbox
   page: https://www.adara.vc/portfolio/councilbox-2
   url: null
@@ -124,6 +139,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: councilbox
 - name: CounterCraft
   page: https://www.adara.vc/portfolio/countercraft
   url: https://www.countercraftsec.com
@@ -132,6 +148,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: countercraft
 - name: Cyber Guru
   page: https://www.adara.vc/portfolio/cyber-guru
   url: https://www.cyberguru.it
@@ -140,14 +157,17 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: cyber-guru
 - name: AlienVault
   page: https://www.adara.vc/portfolio/cybersecurity-att-com
   url: null
   status: exited
   domain: null
   network_slug: null
-  in_network: false
-  is_api_provider: false
+  in_network: true
+  is_api_provider: true
+  slug: alienvault
+  matched_by: name-slug
 - name: Elastix
   page: https://www.adara.vc/portfolio/elastix-2
   url: null
@@ -156,6 +176,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: elastix
 - name: Eluviant
   page: https://www.adara.vc/portfolio/eluviant
   url: https://eluviant.com
@@ -164,6 +185,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: eluviant
 - name: EyeSquad
   page: https://www.adara.vc/portfolio/eyesquad-2
   url: null
@@ -172,6 +194,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: eyesquad
 - name: Fluzo
   page: https://www.adara.vc/portfolio/fluzo-2
   url: https://fluzo.com
@@ -180,14 +203,17 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: fluzo
 - name: Freeverse
   page: https://www.adara.vc/portfolio/freeverse
   url: null
   status: we-tried
   domain: null
   network_slug: null
-  in_network: false
+  in_network: true
   is_api_provider: false
+  slug: freeverse
+  matched_by: name-slug
 - name: Genasys
   page: https://www.adara.vc/portfolio/genasys-2
   url: null
@@ -196,6 +222,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: genasys
 - name: Hdiv Security
   page: https://www.adara.vc/portfolio/hdiv
   url: null
@@ -204,6 +231,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: hdiv-security
 - name: indigitall
   page: https://www.adara.vc/portfolio/indigitall
   url: https://indigitall.com
@@ -212,6 +240,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: indigitall
 - name: IOMED
   page: https://www.adara.vc/portfolio/iomed
   url: https://www.iomed.health
@@ -220,6 +249,8 @@ companies:
   network_slug: iomed
   in_network: true
   is_api_provider: false
+  slug: iomed
+  matched_by: domain
 - name: Kimera Technologies
   page: https://www.adara.vc/portfolio/kimera-2
   url: https://kimeratechnologies.com
@@ -228,6 +259,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: kimera-technologies
 - name: Komon
   page: https://www.adara.vc/portfolio/komon
   url: null
@@ -236,14 +268,17 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: komon
 - name: Kompyte
   page: https://www.adara.vc/portfolio/kompyte-2
   url: null
   status: exited
   domain: null
   network_slug: null
-  in_network: false
+  in_network: true
   is_api_provider: false
+  slug: kompyte
+  matched_by: name-slug
 - name: LoopUp
   page: https://www.adara.vc/portfolio/loopup-2
   url: https://www.loopup.com
@@ -252,6 +287,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: loopup
 - name: Openbravo
   page: https://www.adara.vc/portfolio/openbravo
   url: null
@@ -260,6 +296,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: openbravo
 - name: PlayGiga
   page: https://www.adara.vc/portfolio/playgiga
   url: null
@@ -268,6 +305,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: playgiga
 - name: Plenit
   page: https://www.adara.vc/portfolio/plenit
   url: https://plenit.com
@@ -276,6 +314,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: plenit
 - name: Prisma Photonics
   page: https://www.adara.vc/portfolio/prisma-photonics
   url: https://www.prismaphotonics.com
@@ -284,6 +323,8 @@ companies:
   network_slug: prisma-photonics
   in_network: true
   is_api_provider: false
+  slug: prisma-photonics
+  matched_by: domain
 - name: Quality Clouds
   page: https://www.adara.vc/portfolio/quality-clouds
   url: https://qualityclouds.ai
@@ -292,6 +333,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: quality-clouds
 - name: Quibim
   page: https://www.adara.vc/portfolio/quibim
   url: https://quibim.ai
@@ -300,6 +342,8 @@ companies:
   network_slug: quibim
   in_network: true
   is_api_provider: false
+  slug: quibim
+  matched_by: domain
 - name: SatVu
   page: https://www.adara.vc/portfolio/satvu
   url: https://www.satellitevu.com
@@ -308,6 +352,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: satvu
 - name: Scalefast
   page: https://www.adara.vc/portfolio/scalefast
   url: null
@@ -316,6 +361,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: scalefast
 - name: Seedtag
   page: https://www.adara.vc/portfolio/seedtag
   url: https://www.seedtag.com
@@ -324,6 +370,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: seedtag
 - name: Stratio
   page: https://www.adara.vc/portfolio/stratio
   url: https://stratio.ai
@@ -332,6 +379,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: stratio
 - name: TandemTrace
   page: https://www.adara.vc/portfolio/tandemtrace
   url: https://tandemtrace.ai
@@ -340,6 +388,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: tandemtrace
 - name: TuringDream
   page: https://www.adara.vc/portfolio/turingdream
   url: https://turingdream.com
@@ -348,6 +397,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: turingdream
 - name: Wirescan
   page: https://www.adara.vc/portfolio/wirescan
   url: https://www.wirescan.no
@@ -356,6 +406,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: wirescan
 - name: WIVI Vision
   page: https://www.adara.vc/portfolio/wivi-vision
   url: https://www.wivivision.com
@@ -364,6 +415,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: wivi-vision
 - name: Wodan AI
   page: https://www.adara.vc/portfolio/wodan-ai
   url: https://wodan.ai
@@ -372,6 +424,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: wodan-ai
 - name: XYZ Reality
   page: https://www.adara.vc/portfolio/xyz-reality
   url: https://www.xyzreality.com
@@ -380,6 +433,7 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: xyz-reality
 - name: Zymvol
   page: https://www.adara.vc/portfolio/zymvol
   url: https://www.zymvol.com
@@ -388,3 +442,4 @@ companies:
   network_slug: null
   in_network: false
   is_api_provider: false
+  suggested_slug: zymvol
