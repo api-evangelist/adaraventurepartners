@@ -76,7 +76,7 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: apres
-  x-url-candidate: https://aprs.ai
+  x-url-rejected: https://aprs.ai
 - name: Articul8
   page: https://www.adara.vc/portfolio/article-8
   url: https://articul8.ai
@@ -89,14 +89,14 @@ companies:
   matched_by: domain
 - name: BeonX
   page: https://www.adara.vc/portfolio/beonx
-  url: null
+  url: https://beonx.com
   status: active
   domain: null
   network_slug: null
   in_network: false
   is_api_provider: false
   suggested_slug: beonx
-  x-url-candidate: https://beonx.com
+  x-url-source: web check 2026-10-18 (confirmed)
 - name: Bigle
   page: https://www.adara.vc/portfolio/bigle-legal
   url: https://www.biglelegal.com
@@ -126,24 +126,24 @@ companies:
   suggested_slug: constella-intelligence
 - name: Corinex
   page: https://www.adara.vc/portfolio/corinex
-  url: null
+  url: https://www.corinex.com/
   status: active
   domain: null
   network_slug: null
   in_network: false
   is_api_provider: false
   suggested_slug: corinex
-  x-url-candidate: https://www.corinex.com/
+  x-url-source: web check 2026-10-18 (confirmed)
 - name: Councilbox
   page: https://www.adara.vc/portfolio/councilbox-2
-  url: null
+  url: https://www.councilbox.com/
   status: active
   domain: null
   network_slug: null
   in_network: false
   is_api_provider: false
   suggested_slug: councilbox
-  x-url-candidate: https://www.councilbox.com/
+  x-url-source: web check 2026-10-18 (confirmed)
 - name: CounterCraft
   page: https://www.adara.vc/portfolio/countercraft
   url: https://www.countercraftsec.com
@@ -181,7 +181,7 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: elastix
-  x-url-candidate: https://www.elastix.ai/
+  x-url-rejected: https://www.elastix.ai/
 - name: Eluviant
   page: https://www.adara.vc/portfolio/eluviant
   url: https://eluviant.com
@@ -222,14 +222,14 @@ companies:
   x-url-candidate: https://freeverse.com
 - name: Genasys
   page: https://www.adara.vc/portfolio/genasys-2
-  url: null
+  url: https://www.genasys.com/
   status: exited
   domain: null
   network_slug: null
   in_network: false
   is_api_provider: false
   suggested_slug: genasys
-  x-url-candidate: https://www.genasys.com/
+  x-url-source: web check 2026-10-18 (confirmed)
 - name: Hdiv Security
   page: https://www.adara.vc/portfolio/hdiv
   url: null
@@ -370,7 +370,7 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: scalefast
-  x-url-candidate: https://scalefast.io
+  x-url-rejected: https://scalefast.io
 - name: Seedtag
   page: https://www.adara.vc/portfolio/seedtag
   url: https://www.seedtag.com

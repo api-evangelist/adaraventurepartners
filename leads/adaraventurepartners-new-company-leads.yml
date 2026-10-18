@@ -45,7 +45,7 @@ leads:
   source: https://www.adara.vc/portfolios
   stub_created: false
 - name: BeonX
-  url: ''
+  url: https://beonx.com
   suggested_slug: beonx
   sector: ''
   source_vc: adaraventurepartners
@@ -73,14 +73,14 @@ leads:
   source: https://www.adara.vc/portfolios
   stub_created: false
 - name: Corinex
-  url: ''
+  url: https://www.corinex.com/
   suggested_slug: corinex
   sector: ''
   source_vc: adaraventurepartners
   source: https://www.adara.vc/portfolios
   stub_created: false
 - name: Councilbox
-  url: ''
+  url: https://www.councilbox.com/
   suggested_slug: councilbox
   sector: ''
   source_vc: adaraventurepartners
@@ -129,7 +129,7 @@ leads:
   source: https://www.adara.vc/portfolios
   stub_created: false
 - name: Genasys
-  url: ''
+  url: https://www.genasys.com/
   suggested_slug: genasys
   sector: ''
   source_vc: adaraventurepartners
